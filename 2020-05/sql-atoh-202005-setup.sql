@@ -1,0 +1,4 @@
+delete DBMSHP_FUNCTION_INFO;
+delete DBMSHP_PARENT_CHILD_INFO;
+delete DBMSHP_RUNS;
+commit;
